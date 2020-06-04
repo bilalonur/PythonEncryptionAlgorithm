@@ -1,4 +1,5 @@
-# Python ile şifreleme algoritması
+# Python ile Şifreleme Algoritması
+# Encryption Algorithm in Python
 # Bilal Onur Eskili // 04.06.2020 
 # İletişim/For Contact: onur@bilalonureskili.com
 
